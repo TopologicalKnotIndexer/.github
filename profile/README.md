@@ -5,4 +5,5 @@
 ## 一些 repo
 由于拆分拆得比较细，这里列举几个值得一看的项目：
 - (需要 JDK) 基于 khovanov 同调，输入 PD_CODE，推测扭结名 https://github.com/TopologicalKnotIndexer/khovanov-indexer
+- (需要 JDK) 基于 khovanov 同调，输入分子信息文件，推测扭结名 https://github.com/TopologicalKnotIndexer/khovanov-indexer-pipeline
 - (需要 sage) 基于 HOMFLY-PT 多项式，输入 PD_CODE，推测扭结名 https://github.com/TopologicalKnotIndexer/HOMFLY-PT-indexer
