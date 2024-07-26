@@ -3,7 +3,7 @@
 - 由于 repo 有有很多的 submodule，所以 clone 时要注意使用 `--recursive` 参数。
 
 ## 一些列表
-- 常见扭结的 HOMFLY-PT 多项式 https://github.com/TopologicalKnotIndexer/HOMFLY-PT-polynomial-list/blob/main/data/HOMFLY-PT.txt
+- 常见扭结的镜像 HOMFLY-PT 多项式 https://github.com/TopologicalKnotIndexer/HOMFLY-PT-polynomial-list/blob/main/data/HOMFLY-PT.txt
 - 常见扭结的 khovanov 同调 https://github.com/TopologicalKnotIndexer/khovanov-homology-list/blob/main/data/khovanov.txt
 - 常见扭结的 volume 列表 https://github.com/TopologicalKnotIndexer/volume_list/blob/main/src/volume_info_list.txt
 
