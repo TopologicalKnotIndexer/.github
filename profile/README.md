@@ -6,6 +6,7 @@
 - 常见扭结的镜像 HOMFLY-PT 多项式 https://github.com/TopologicalKnotIndexer/HOMFLY-PT-polynomial-list/blob/main/data/HOMFLY-PT.txt
 - 常见扭结的 khovanov 同调 https://github.com/TopologicalKnotIndexer/khovanov-homology-list/blob/main/data/khovanov.txt
 - 常见扭结的 volume 列表 https://github.com/TopologicalKnotIndexer/volume_list/blob/main/src/volume_info_list.txt
+- 常见的 non-hyperbolic 扭结名称序列 https://github.com/TopologicalKnotIndexer/non_hyperbolic_knot_list/blob/main/data/non_hyperbolic_knot_list.txt
 
 ## 一些 repo
 由于拆分拆得比较细，这里列举几个值得一看的项目：
