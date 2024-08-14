@@ -22,5 +22,5 @@
   - https://github.com/TopologicalKnotIndexer/khovanov-indexer-pipeline
 - (需要 sage) 基于 HOMFLY-PT 多项式，输入 PD_CODE，推测扭结名
   - https://github.com/TopologicalKnotIndexer/HOMFLY-PT-indexer
-- (需要 sage) 基于 non hyperbolic-knot 的补空间体积，输入 PD_CODE，推测扭结名
+- (需要 snappy) 基于 non hyperbolic-knot 的补空间体积，输入 PD_CODE，推测扭结名
   - https://github.com/TopologicalKnotIndexer/volume_indexer
