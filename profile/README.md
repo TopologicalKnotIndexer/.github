@@ -3,15 +3,15 @@
 - 由于 repo 有有很多的 submodule，所以 clone 时要注意使用 `--recursive` 参数。
 
 ## 一些列表
-- 常见扭结的 PD_CODE
+- 常见素扭结的 PD_CODE
   - https://github.com/TopologicalKnotIndexer/pd_code_list/blob/main/data/pd_code_list.txt
-- 常见扭结的镜像 HOMFLY-PT 多项式
+- 常见扭结（含非素）的镜像 HOMFLY-PT 多项式
   - https://github.com/TopologicalKnotIndexer/HOMFLY-PT-polynomial-list/blob/main/data/HOMFLY-PT.txt
-- 常见扭结的 khovanov 同调
+- 常见扭结（含非素）的 khovanov 同调
   - https://github.com/TopologicalKnotIndexer/khovanov-homology-list/blob/main/data/khovanov.txt
-- 常见扭结的 volume 列表
+- 常见扭结（含非素）的 volume 列表
   - https://github.com/TopologicalKnotIndexer/volume_list/blob/main/src/volume_info_list.txt
-- 常见的 non-hyperbolic 扭结名称序列
+- 常见的 non-hyperbolic 素扭结名称序列
   - https://github.com/TopologicalKnotIndexer/non_hyperbolic_knot_list/blob/main/data/non_hyperbolic_knot_list.txt
 
 ## 一些 repo
