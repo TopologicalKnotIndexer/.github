@@ -3,6 +3,7 @@
 - 由于 repo 有有很多的 submodule，所以 clone 时要注意使用 `--recursive` 参数。
 
 ## 一些列表
+请注意，这些列表中并没有依据 writhe 的正负性对标准 PD_CODE 进行镜像修正。这一修正在 hybrid_indexer 中得到实现。
 - 常见素扭结的 PD_CODE
   - https://github.com/TopologicalKnotIndexer/pd_code_list/blob/main/data/pd_code_list.txt
 - 常见扭结（含非素）的镜像 HOMFLY-PT 多项式
