@@ -15,6 +15,10 @@
 - 常见的 non-hyperbolic 素扭结名称序列
   - https://github.com/TopologicalKnotIndexer/non_hyperbolic_knot_list/blob/main/data/non_hyperbolic_knot_list.txt
 
+## 一些分析
+- khovanov 同调、HOMFLY-PT 多项式以及扭结补空间体积各自对小于等于 11 crossing 扭结的区分能力的比较报告
+   - https://github.com/TopologicalKnotIndexer/conflict_lab
+
 ## 一些 repo
 由于拆分拆得比较细，这里列举几个值得一看的项目：
 - (需要 JDK) 基于 khovanov 同调以及 HOMFLYPT 多项式，输入分子信息文件，推测扭结名
