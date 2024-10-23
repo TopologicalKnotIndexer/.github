@@ -4,7 +4,7 @@
 
 ## 一些列表
 请注意，这些列表中并没有依据 writhe 的正负性对标准 PD_CODE 进行镜像修正。这一修正在 hybrid_indexer 中得到实现。
-- 常见扭结的 PD_CODE
+- 常见扭结（含非素）的 PD_CODE
   - https://github.com/TopologicalKnotIndexer/com_pd_code_list/blob/main/data/com_pd_code_list.txt
 - 常见扭结（含非素）的镜像 HOMFLY-PT 多项式
   - https://github.com/TopologicalKnotIndexer/conflict_lab/blob/main/HOMFLY-PT-reg.txt
