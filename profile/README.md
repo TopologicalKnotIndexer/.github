@@ -4,14 +4,14 @@
 
 ## 一些列表
 请注意，这些列表中并没有依据 writhe 的正负性对标准 PD_CODE 进行镜像修正。这一修正在 hybrid_indexer 中得到实现。
-- 常见素扭结的 PD_CODE
-  - https://github.com/TopologicalKnotIndexer/pd_code_list/blob/main/data/pd_code_list.txt
+- 常见扭结的 PD_CODE
+  - https://github.com/TopologicalKnotIndexer/com_pd_code_list/blob/main/data/com_pd_code_list.txt
 - 常见扭结（含非素）的镜像 HOMFLY-PT 多项式
-  - https://github.com/TopologicalKnotIndexer/HOMFLY-PT-polynomial-list/blob/main/data/HOMFLY-PT.txt
+  - https://github.com/TopologicalKnotIndexer/conflict_lab/blob/main/HOMFLY-PT-reg.txt
 - 常见扭结（含非素）的 khovanov 同调
-  - https://github.com/TopologicalKnotIndexer/khovanov-homology-list/blob/main/data/khovanov.txt
+  - https://github.com/TopologicalKnotIndexer/conflict_lab/blob/main/khovanov-reg.txt
 - 常见扭结（含非素）的 volume 列表
-  - https://github.com/TopologicalKnotIndexer/volume_list/blob/main/src/volume_info_list.txt
+  - https://github.com/TopologicalKnotIndexer/conflict_lab/blob/main/volume_info_list-reg.txt
 - 常见的 non-hyperbolic 素扭结名称序列
   - https://github.com/TopologicalKnotIndexer/non_hyperbolic_knot_list/blob/main/data/non_hyperbolic_knot_list.txt
 
