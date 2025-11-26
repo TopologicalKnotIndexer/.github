@@ -25,6 +25,8 @@
 
 ## 一些 repo
 由于拆分拆得比较细，这里列举几个值得一看的项目：
+- (网页端) 扭结连通分支计算器：
+  - https://ggn-2015.github.io/pd_code_cc_tool/
 - (需要 JDK) 基于 khovanov 同调以及 HOMFLYPT 多项式，输入分子信息文件，推测扭结名
   - https://github.com/TopologicalKnotIndexer/hybrid_knot_indexer
 - (需要 JDK) 基于 khovanov 同调，输入 PD_CODE，推测扭结名
