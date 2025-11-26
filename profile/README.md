@@ -6,6 +6,7 @@
 请注意，这些列表中并没有依据 writhe 的正负性对标准 PD_CODE 进行镜像修正。这一修正在 hybrid_indexer 中得到实现。
 - 常见扭结（含非素）的 PD_CODE
   - https://github.com/TopologicalKnotIndexer/com_pd_code_list/blob/main/data/com_pd_code_list.txt
+- 小于等于 11 crossing 的素 Link 的 PD_CODE 列表
 - 常见标准 PD_CODE 的 writhe 列表：
   - https://github.com/TopologicalKnotIndexer/writhe_list/blob/main/data/writhe_list.txt
 - 常见扭结（含非素）的镜像 HOMFLY-PT 多项式
