@@ -1,6 +1,8 @@
 ## 拓扑扭结检索器
 - 一些与拓扑扭结检索相关的项目汇集于此。我们旨在实现对小于等于 11-crossing 的扭结的区分。
 - 由于 repo 有有很多的 submodule，所以 clone 时要注意使用 `--recursive` 参数。
+- 关于 PD Code 的定义请参考：
+  - https://katlas.org/wiki/Planar_Diagrams
 
 ## 一些列表
 请注意，这些列表中并没有依据 writhe 的正负性对标准 PD_CODE 进行镜像修正。这一修正在 hybrid_indexer 中得到实现。
