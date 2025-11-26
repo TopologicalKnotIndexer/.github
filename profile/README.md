@@ -7,6 +7,7 @@
 - 常见扭结（含非素）的 PD_CODE
   - https://github.com/TopologicalKnotIndexer/com_pd_code_list/blob/main/data/com_pd_code_list.txt
 - 小于等于 11 crossing 的素 Link 的 PD_CODE 列表
+  - https://github.com/TopologicalKnotIndexer/link_pd_code_list/blob/main/data/pd_code_list.txt
 - 常见标准 PD_CODE 的 writhe 列表：
   - https://github.com/TopologicalKnotIndexer/writhe_list/blob/main/data/writhe_list.txt
 - 常见扭结（含非素）的镜像 HOMFLY-PT 多项式
