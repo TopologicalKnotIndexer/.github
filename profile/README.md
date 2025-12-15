@@ -39,3 +39,6 @@
   - https://github.com/TopologicalKnotIndexer/HOMFLY-PT-indexer
 - (需要 snappy) 基于 non hyperbolic-knot 的补空间体积，输入 PD_CODE，推测扭结名
   - https://github.com/TopologicalKnotIndexer/volume_indexer
+- (纯 C++) 输入扭结或者链环 PD_CODE，输出三维空间表示或者二维布局图
+  - https://github.com/TopologicalKnotIndexer/pd_code_to_diagram
+
