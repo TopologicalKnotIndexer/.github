@@ -41,4 +41,5 @@
   - https://github.com/TopologicalKnotIndexer/volume_indexer
 - (纯 C++) 输入扭结或者链环 PD_CODE，输出三维空间表示或者二维布局图
   - https://github.com/TopologicalKnotIndexer/pd_code_to_diagram
-
+- (纯 Python) 对非素扭结或者非素链环进行表示，给出一种序列化的表示方式
+  - https://github.com/TopologicalKnotIndexer/LinkRep
