@@ -4,6 +4,16 @@
 - 关于 PD Code 的定义请参考：
   - https://katlas.org/wiki/Planar_Diagrams
 
+## 一些开箱即用的 python 包
+- 非素链环表示
+  - https://pypi.org/project/link-rep/
+- 小于等于 10 crossing 素扭结列表以及其组合
+  - https://pypi.org/project/prime-link-knot-10/
+- K 分图的边组合生成问题
+  - https://pypi.org/project/group-diagram-combination/
+- 给出链环 pd code 计算所有连通分支
+  - https://pypi.org/project/pd-code-components/
+
 ## 一些列表
 请注意，这些列表中并没有依据 writhe 的正负性对标准 PD_CODE 进行镜像修正。这一修正在 hybrid_indexer 中得到实现。
 - 常见扭结（含非素）的 PD_CODE
