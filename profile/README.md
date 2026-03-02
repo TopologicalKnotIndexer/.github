@@ -21,6 +21,8 @@
   - https://pypi.org/project/pd-code-strong-sanity/
 - 给定两个链环的 pd_code，求他们的连通和的 pd_code
   - https://pypi.org/project/pd-code-connected-sum/
+- 生成所有可能的 composite 链环的序列化表示（使用小于等于 10 crossing 的素扭结与链环）
+  - https://pypi.org/project/com-link-gen-10/
 
 ## 一些列表
 请注意，这些列表中并没有依据 writhe 的正负性对标准 PD_CODE 进行镜像修正。这一修正在 hybrid_indexer 中得到实现。
