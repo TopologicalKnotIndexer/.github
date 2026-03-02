@@ -15,6 +15,12 @@
   - https://pypi.org/project/pd-code-components/
 - 给一个 list of list，检验他是否是合法的 pd_code （弱合法性）
   - https://pypi.org/project/pd-code-sanity/
+- 给定 pd_code 求一个对应的平面布局图
+  - https://pypi.org/project/pd-code-to-diagram/
+- 给定一个 pd_code 检查他是否是合法的（强合法性）
+  - https://pypi.org/project/pd-code-strong-sanity/
+- 给定两个链环的 pd_code，求他们的连通和的 pd_code
+  - https://pypi.org/project/pd-code-connected-sum/
 
 ## 一些列表
 请注意，这些列表中并没有依据 writhe 的正负性对标准 PD_CODE 进行镜像修正。这一修正在 hybrid_indexer 中得到实现。
