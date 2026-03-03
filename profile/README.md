@@ -23,6 +23,10 @@
   - https://pypi.org/project/pd-code-connected-sum/
 - 生成所有可能的 composite 链环的序列化表示（使用小于等于 10 crossing 的素扭结与链环）
   - https://pypi.org/project/com-link-gen-10/
+- 给定一个 pd_code （link 或者 knot）删除所有 nugatory crossing
+  - https://pypi.org/project/pd-code-delete-nugatory/
+- 给定一个 pd_code (link 或者 knot) 删除所有能用 r1-move 删除的 crossing
+  - https://pypi.org/project/pd-code-de-r1/
 
 ## 一些列表
 请注意，这些列表中并没有依据 writhe 的正负性对标准 PD_CODE 进行镜像修正。这一修正在 hybrid_indexer 中得到实现。
