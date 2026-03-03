@@ -27,6 +27,8 @@
   - https://pypi.org/project/pd-code-delete-nugatory/
 - 给定一个 pd_code (link 或者 knot) 删除所有能用 r1-move 删除的 crossing
   - https://pypi.org/project/pd-code-de-r1/
+- 给定一个 pd_code，对某个特定的连通分支进行定向翻转
+  - https://pypi.org/project/pd-code-reverse-component/
 
 ## 一些列表
 请注意，这些列表中并没有依据 writhe 的正负性对标准 PD_CODE 进行镜像修正。这一修正在 hybrid_indexer 中得到实现。
