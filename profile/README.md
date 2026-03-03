@@ -29,6 +29,8 @@
   - https://pypi.org/project/pd-code-de-r1/
 - 给定一个 pd_code，对某个特定的连通分支进行定向翻转
   - https://pypi.org/project/pd-code-reverse-component/
+- 给定一个扭结或者链环，给出其 pd_code，计算其镜像扭结
+  - https://pypi.org/project/pd-code-mirror/
 
 ## 一些列表
 请注意，这些列表中并没有依据 writhe 的正负性对标准 PD_CODE 进行镜像修正。这一修正在 hybrid_indexer 中得到实现。
