@@ -31,6 +31,8 @@
   - https://pypi.org/project/pd-code-reverse-component/
 - 给定一个扭结或者链环，给出其 pd_code，计算其镜像扭结
   - https://pypi.org/project/pd-code-mirror/
+- （需要 JRE）给定一个扭结或者链环的 PD_CODE，借助 JavaKh 计算 khovanov 同调
+  - https://pypi.org/project/javakh-interface/
 
 ## 一些列表
 请注意，这些列表中并没有依据 writhe 的正负性对标准 PD_CODE 进行镜像修正。这一修正在 hybrid_indexer 中得到实现。
