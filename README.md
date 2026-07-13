@@ -1,4 +1,7 @@
-# .github
-TopologicalKnotIndexer 组织简介。
+# TopologicalKnotIndexer organization metadata
 
-- 具体信息详见 [README.md](./profile/README.md)
+This repository contains the public profile and shared metadata for the
+TopologicalKnotIndexer GitHub organization.
+
+See the [organization profile](profile/README.md) for project descriptions,
+datasets, and entry points.
