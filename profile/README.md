@@ -10,7 +10,7 @@ required. Clone only the repositories you need, or use the GitHub CLI to clone
 all public organization repositories:
 
 ```bash
-gh repo list TopologicalKnotIndexer --limit 100 --json nameWithOwner \
+gh repo list TopologicalKnotIndexer --limit 100 --visibility public --json nameWithOwner \
   --jq '.[].nameWithOwner' | xargs -n1 gh repo clone
 ```
 
@@ -94,3 +94,27 @@ states the assumptions and limitations of those comparisons.
   converts a PD code to a 3D spatial representation or 2D layout in C++.
 - [`LinkRep`](https://github.com/TopologicalKnotIndexer/LinkRep): serializes and
   manipulates composite knots and links in pure Python.
+
+## Native and specialist tools
+
+- [`cppkh`](https://github.com/TopologicalKnotIndexer/cppkh): standalone C++14
+  integer Khovanov homology engine derived from the JavaKh computation path.
+- [`quick_cppkh`](https://github.com/TopologicalKnotIndexer/quick_cppkh): races
+  direct `cppkh` against PD simplification followed by `cppkh`, using tracked
+  ordinary dependency snapshots and no nested clones.
+- [`cpp-pd-code-simplify`](https://github.com/TopologicalKnotIndexer/cpp-pd-code-simplify):
+  dependency-free C++17 PD-code simplifier with a differential Python model.
+- [`cpp_knot_indexer`](https://github.com/TopologicalKnotIndexer/cpp_knot_indexer):
+  pure C++17 PD-code lookup using HOMFLY-PT and integral Khovanov tables.
+- [`knot-indexer-lab`](https://github.com/TopologicalKnotIndexer/knot-indexer-lab):
+  self-contained C++17 web server for PD-code and 3D-coordinate knot lookup.
+- [`link-pd-code`](https://github.com/TopologicalKnotIndexer/link-pd-code):
+  robust C++17 projection of ordered 3D link coordinates to validated PD codes.
+- [`n-parallel`](https://github.com/TopologicalKnotIndexer/n-parallel): pure
+  Python construction of `n` parallel diagram components; this is a parallel
+  or doubling operation, not a general `(p,q)` cable constructor.
+- [`pd_to_diagram`](https://github.com/TopologicalKnotIndexer/pd_to_diagram):
+  experimental simulated-annealing search for routed PD-code grid layouts.
+- [`khovanov-solver-legacy`](https://github.com/TopologicalKnotIndexer/khovanov-solver-legacy):
+  portable reproducibility wrapper around the bundled original JavaKh v2
+  classes. New native applications should prefer `cppkh`.
