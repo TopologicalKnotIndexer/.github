@@ -12,7 +12,7 @@ If you use this repository in academic work, please cite it as:
 
 ```bibtex
 @software{topologicalknotindexer_github,
-  author = {{TopologicalKnotIndexer contributors}},
+  author = {{GGN\_2015}},
   title = {{TopologicalKnotIndexer organization metadata}},
   year = {2026},
   url = {https://github.com/TopologicalKnotIndexer/.github}
